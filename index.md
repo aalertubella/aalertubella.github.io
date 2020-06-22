@@ -1,5 +1,3 @@
-# Andrea Aler Tubella
-
 ## About
 
 I am a postdoc at [Umeå University](https://www.umu.se/en/). I work with [Virginia Dignum][VD] in a [WASP](https://wasp-sweden.org/) project focused on the formal verification of ethical principles of AI systems.
