@@ -36,7 +36,7 @@ You can reach me at andrea dot aler at umu dot se . You can find me in room D418
 
 [Removing Cycles from Proofs](http://cs.bath.ac.uk/ag/p/RCP.pdf), with [Alessio Guglielmi][Alessio] and [Benjamin Ralph](https://people.bath.ac.uk/bdr25/).  CSL 2017, Leibniz International Proceedings in Informatics (LIPIcs) 82, pp. 9:1–18.
 
-[A study of normalisation through subatomic logic](http://cs.bath.ac.uk/ag/aat/phd.pdf), Thesis (Revised version, 2018). 10-page summary. Shortlisted by the E.W. Beth Dissertation Prize 2018.
+[A study of normalisation through subatomic logic](http://cs.bath.ac.uk/ag/aat/phd.pdf), Thesis (Revised version, 2018). [10-page summary](https://aalertubella.github.io/pdfs/thesis-summary-andrea.pdf). Shortlisted by the E.W. Beth Dissertation Prize 2018.
 
 [Andreas]: https://www.recklesscoding.com/
 [VD]: https://people.cs.umu.se/virginia/
