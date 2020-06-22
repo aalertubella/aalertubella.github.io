@@ -24,6 +24,13 @@ You can reach me at andrea dot aler at umu dot se . You can find me in room D418
 
 ## Publications
 
+##### [Contestable Black Boxes](https://arxiv.org/abs/2006.05133), RuleML+RR 2020
+
+with [Andreas Theodorou][Andreas], [Virginia Dignum][VD] and [Loizos Michael](https://cognition.ouc.ac.cy/loizos/).
+
+##### [The Glass Box Approach: Verifying Contextual Adherence to Values](http://ceur-ws.org/Vol-2419/paper_18.pdf), AISafety 2019
+with [Virginia Dignum][VD].
+
 [Contestable Black Boxes](https://arxiv.org/abs/2006.05133), with [Andreas Theodorou][Andreas], [Virginia Dignum][VD] and [Loizos Michael](https://cognition.ouc.ac.cy/loizos/). RuleML+RR 2020.
 
 [The Glass Box Approach: Verifying Contextual Adherence to Values](http://ceur-ws.org/Vol-2419/paper_18.pdf), with [Virginia Dignum][VD]. AISafety 2019.
@@ -39,3 +46,5 @@ You can reach me at andrea dot aler at umu dot se . You can find me in room D418
 [Andreas]: https://www.recklesscoding.com/
 [VD]: https://people.cs.umu.se/virginia/
 [Alessio]: http://alessio.guglielmi.name/
+
+## Selected Slides
