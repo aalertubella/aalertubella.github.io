@@ -24,27 +24,30 @@ You can reach me at andrea dot aler at umu dot se . You can find me in room D418
 
 ## Publications
 
-##### [Contestable Black Boxes](https://arxiv.org/abs/2006.05133), RuleML+RR 2020
+**[Contestable Black Boxes](https://arxiv.org/abs/2006.05133)**, with [Andreas Theodorou][Andreas], [Virginia Dignum][VD] and [Loizos Michael](https://cognition.ouc.ac.cy/loizos/). **RuleML+RR 2020**.
 
-with [Andreas Theodorou][Andreas], [Virginia Dignum][VD] and [Loizos Michael](https://cognition.ouc.ac.cy/loizos/).
+**[The Glass Box Approach: Verifying Contextual Adherence to Values](http://ceur-ws.org/Vol-2419/paper_18.pdf)**, with [Virginia Dignum][VD]. **AISafety 2019**.
 
-##### [The Glass Box Approach: Verifying Contextual Adherence to Values](http://ceur-ws.org/Vol-2419/paper_18.pdf), AISafety 2019
-with [Virginia Dignum][VD].
+**[Governance by Glass-Box: Implementing Transparent Moral Bounds for AI Behaviour](https://arxiv.org/abs/1905.04994)**, with [Andreas Theodorou][Andreas], [Frank Dignum](https://www.umu.se/en/staff/frank-dignum/) and [Virginia Dignum][VD]. **IJCAI’19**.
 
-[Contestable Black Boxes](https://arxiv.org/abs/2006.05133), with [Andreas Theodorou][Andreas], [Virginia Dignum][VD] and [Loizos Michael](https://cognition.ouc.ac.cy/loizos/). RuleML+RR 2020.
+**[Subatomic Proof Systems: Splittable Systems](https://dl.acm.org/doi/10.1145/3173544)**, with [Alessio Guglielmi][Alessio]. **ACM Trans. Comput. Logic** 19, 1, Article 5 (January 2018). [ArXiv](https://arxiv.org/pdf/1703.10258.pdf).
 
-[The Glass Box Approach: Verifying Contextual Adherence to Values](http://ceur-ws.org/Vol-2419/paper_18.pdf), with [Virginia Dignum][VD]. AISafety 2019.
+**[Removing Cycles from Proofs](http://cs.bath.ac.uk/ag/p/RCP.pdf)**, with [Alessio Guglielmi][Alessio] and [Benjamin Ralph](https://people.bath.ac.uk/bdr25/).  **CSL 2017**, Leibniz International Proceedings in Informatics (LIPIcs) 82, pp. 9:1–18.
 
-[Governance by Glass-Box: Implementing Transparent Moral Bounds for AI Behaviour](https://arxiv.org/abs/1905.04994), with [Andreas Theodorou][Andreas], [Frank Dignum](https://www.umu.se/en/staff/frank-dignum/) and [Virginia Dignum][VD]. IJCAI’19.
-
-[Subatomic Proof Systems: Splittable Systems](https://dl.acm.org/doi/10.1145/3173544), with [Alessio Guglielmi][Alessio]. ACM Trans. Comput. Logic 19, 1, Article 5 (January 2018). [ArXiv](https://arxiv.org/pdf/1703.10258.pdf).
-
-[Removing Cycles from Proofs](http://cs.bath.ac.uk/ag/p/RCP.pdf), with [Alessio Guglielmi][Alessio] and [Benjamin Ralph](https://people.bath.ac.uk/bdr25/).  CSL 2017, Leibniz International Proceedings in Informatics (LIPIcs) 82, pp. 9:1–18.
-
-[A study of normalisation through subatomic logic](http://cs.bath.ac.uk/ag/aat/phd.pdf), Thesis (Revised version, 2018). [10-page summary](https://aalertubella.github.io/pdfs/thesis-summary-andrea.pdf). Shortlisted by the E.W. Beth Dissertation Prize 2018.
+**[A study of normalisation through subatomic logic](http://cs.bath.ac.uk/ag/aat/phd.pdf)**, Thesis (Revised version, 2018). [10-page summary](https://aalertubella.github.io/pdfs/thesis-summary-andrea.pdf). Shortlisted by the E.W. Beth Dissertation Prize 2018.
 
 [Andreas]: https://www.recklesscoding.com/
 [VD]: https://people.cs.umu.se/virginia/
 [Alessio]: http://alessio.guglielmi.name/
 
 ## Selected Slides
+
+* [A story of multiplicatives and additives](https://aalertubella.github.io/pdfs/additivesmultiplicatives.pdf). Invited talk at the 5th International Workshop on Structures and Deduction, June 2019.
+* [New normal forms for proofs via deep inference](https://aalertubella.github.io/pdfs/newnormal.pdf). Journées PPS 2018, November 2018.
+* [A study of normalisation through subatomic logic](https://aalertubella.github.io/pdfs/astudy.pdf). SYSMICS workshop, February 2018.
+* [Decomposition and cycles: isolating two complexity-generating mechanisms](https://aalertubella.github.io/pdfs/cycles.pdf). FISP kick-off, November 2016.
+* [Generalising cut elimination through subatomic proof systems, or the math stuff that I do](https://aalertubella.github.io/pdfs/mathstuff.pdf). Talk for a general computer science audience at the departmental seminar in the University of Bath. July 2016.
+
+## Teaching
+
+Systems Architecture 1 (2015, 2016), Foundations of Computation 2 (2014), Algebra 2 (2014), Algebra 1 (2013).
