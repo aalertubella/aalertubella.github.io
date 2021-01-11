@@ -1,8 +1,8 @@
 ## About
 
-I am a postdoc at [Umeå University](https://www.umu.se/en/). I work with [Virginia Dignum][VD] in a [WASP](https://wasp-sweden.org/) project focused on the formal verification of ethical principles of AI systems.
+I am a Senior Research Engineer at [Umeå University](https://www.umu.se/en/) in the [Responsible AI](https://www.umu.se/en/research/groups/responsible-artificial-intelligence/) group.
 
-My research areas include logic and proof theory (in particular [deep inference](http://alessio.guglielmi.name/res/cos/index.html)). I am interested  in the design of formalisms and systems, as well as in applications of logic in intelligent systems.
+My research areas include logic and proof theory (in particular [deep inference](http://alessio.guglielmi.name/res/cos/index.html)). I am interested  in the design of formalisms and systems, as well as in applications of logic for intelligent systems.
 
 Previously, I was a postdoc at [IRIF](https://www.irif.fr//en/index) (Univ. Paris Diderot).
 
