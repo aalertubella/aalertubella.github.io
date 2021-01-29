@@ -50,4 +50,7 @@ You can reach me at andrea dot aler at umu dot se . You can find me in room D418
 
 ## Teaching
 
+2021: Responsible Design of Interactive AI systems
+2020: Fundamentals of artificial intelligence, Datavetenskaplig logik
+
 Systems Architecture 1 (2015, 2016), Foundations of Computation 2 (2014), Algebra 2 (2014), Algebra 1 (2013).
