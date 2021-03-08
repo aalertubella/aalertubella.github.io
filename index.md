@@ -24,6 +24,8 @@ You can reach me at andrea dot aler at umu dot se . You can find me in room D418
 
 ## Publications
 
+**[Interrogating the Black Box: Transparency through Information-Seeking Dialogues](https://arxiv.org/abs/2102.04714)**, with [Andreas Theodorou][Andreas] and [Juan Carlos Nieves][https://people.cs.umu.se/jcnieves/]. **AAMAS 2021**.
+
 **[Contestable Black Boxes](https://arxiv.org/abs/2006.05133)**, with [Andreas Theodorou][Andreas], [Virginia Dignum][VD] and [Loizos Michael](https://cognition.ouc.ac.cy/loizos/). **RuleML+RR 2020**.
 
 **[The Glass Box Approach: Verifying Contextual Adherence to Values](http://ceur-ws.org/Vol-2419/paper_18.pdf)**, with [Virginia Dignum][VD]. **AISafety 2019**.
@@ -50,7 +52,7 @@ You can reach me at andrea dot aler at umu dot se . You can find me in room D418
 
 ## Teaching
 
-2021: Responsible Design of Interactive AI systems
-2020: Fundamentals of artificial intelligence, Datavetenskaplig logik
+* 2021: Responsible Design of Interactive AI systems
+* 2020: Fundamentals of artificial intelligence, Datavetenskaplig logik
 
-Systems Architecture 1 (2015, 2016), Foundations of Computation 2 (2014), Algebra 2 (2014), Algebra 1 (2013).
+University of Bath: Systems Architecture 1 (2015, 2016), Foundations of Computation 2 (2014), Algebra 2 (2014), Algebra 1 (2013).
