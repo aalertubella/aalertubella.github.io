@@ -24,7 +24,7 @@ You can reach me at andrea dot aler at umu dot se . You can find me in room D418
 
 ## Publications
 
-**[Interrogating the Black Box: Transparency through Information-Seeking Dialogues](https://arxiv.org/abs/2102.04714)**, with [Andreas Theodorou][Andreas] and [Juan Carlos Nieves][https://people.cs.umu.se/jcnieves/]. **AAMAS 2021**.
+**[Interrogating the Black Box: Transparency through Information-Seeking Dialogues](https://arxiv.org/abs/2102.04714)**, with [Andreas Theodorou][Andreas] and [Juan Carlos Nieves](https://people.cs.umu.se/jcnieves/). **AAMAS 2021**.
 
 **[Contestable Black Boxes](https://arxiv.org/abs/2006.05133)**, with [Andreas Theodorou][Andreas], [Virginia Dignum][VD] and [Loizos Michael](https://cognition.ouc.ac.cy/loizos/). **RuleML+RR 2020**.
 
