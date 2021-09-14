@@ -24,7 +24,7 @@ You can reach me at andrea dot aler at umu dot se . You can find me in room D418
 * [Second FISP Meeting](https://www.lix.polytechnique.fr/~lutz/orgs/FISP-workshop-June2017.html), 8-10 June 2017. Organising committee.
 
 ## Publications
-**[Let Me Take Over: Variable Autonomy for Meaningful Human Control](https://www.frontiersin.org/articles/10.3389/frai.2021.737072/full)**, with Leila Methnani, [Andreas Theodorou][Andreas] and [Virginia Dignum][VD].
+**[Let Me Take Over: Variable Autonomy for Meaningful Human Control](https://www.frontiersin.org/articles/10.3389/frai.2021.737072/full)**, with Leila Methnani, [Andreas Theodorou][Andreas] and [Virginia Dignum][VD]. **Frontiers in Artificial Intelligence**, vol.4, 2021.
 
 **[Interrogating the Black Box: Transparency through Information-Seeking Dialogues](https://arxiv.org/abs/2102.04714)**, with [Andreas Theodorou][Andreas] and [Juan Carlos Nieves](https://people.cs.umu.se/jcnieves/). **AAMAS 2021**.
 
