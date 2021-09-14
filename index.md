@@ -11,18 +11,20 @@ I obtained a PhD from the University of Bath under the supervision of [Alessio G
 You can reach me at andrea dot aler at umu dot se . You can find me in room D418, 4th floor of MIT-huset in Umeå University.
 
 ## Events
+* Workshop: [The Culture of Trustworthy AI. Public debate, education, practical learning](https://www.unive.it/pag/36810/). September 2021. Co-organiser.
 
 * [International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems](https://coin-workshop.github.io/coine-2020-new-zealand/) (COINE).  May 2020. Co-organiser.
 
 * Course: An introduction to deep inference, [ESSLLI summer school](http://esslli2019.folli.info/programme/logic-and-computation/), August 2019. Co-lecturer. [Course page](https://www.lix.polytechnique.fr/~lutz/orgs/ESSLLI2019-course.html).
  
-* 31st annual workshop of the Swedish Artificial Intelligence Society ([SAIS 2019](https://sais2019.cs.umu.se/)), June 18-19 2019. OC member.
+* 31st annual workshop of the Swedish Artificial Intelligence Society ([SAIS 2019](https://sais2019.cs.umu.se/)), June 18-19 2019. Organising committee.
 
 * Workshop: [Twenty Years of Deep Inference](https://www.lix.polytechnique.fr/~lutz/orgs/TYDI2018.html), July 2018, part of FLoC 2018. Co-organiser.
 
-* [Second FISP Meeting](https://www.lix.polytechnique.fr/~lutz/orgs/FISP-workshop-June2017.html), 8-10 June 2017. OC member.
+* [Second FISP Meeting](https://www.lix.polytechnique.fr/~lutz/orgs/FISP-workshop-June2017.html), 8-10 June 2017. Organising committee.
 
 ## Publications
+**[Let Me Take Over: Variable Autonomy for Meaningful Human Control](https://www.frontiersin.org/articles/10.3389/frai.2021.737072/full)**, with Leila Methnani, [Andreas Theodorou][Andreas] and [Virginia Dignum][VD].
 
 **[Interrogating the Black Box: Transparency through Information-Seeking Dialogues](https://arxiv.org/abs/2102.04714)**, with [Andreas Theodorou][Andreas] and [Juan Carlos Nieves](https://people.cs.umu.se/jcnieves/). **AAMAS 2021**.
 
