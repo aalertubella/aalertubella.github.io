@@ -2,7 +2,7 @@
 
 I am a Senior Research Engineer at [Umeå University](https://www.umu.se/en/) in the [Responsible AI](https://www.umu.se/en/research/groups/responsible-artificial-intelligence/) group.
 
-My research revolves around design, impact and education around AI. I am particularly interested in multidisciplinary perspectives, and how collaboration and insights from otther disciplines can inform and improve the impacts of intelligent systems. My background is in logic, and my interests also span the design of formalisms and systems, as well as applications of logic for intelligent systems.
+My research includes design, impact and education around AI. I am particularly interested in multidisciplinary perspectives, and how collaboration and insights from various disciplines can inform and improve the impacts of intelligent systems. My background is in logic, and my interests also span the design of formalisms and systems, as well as applications of logic for intelligent systems.
 
 You can reach me at andrea dot aler at umu dot se . You can find me in room D418, 4th floor of MIT-huset in Umeå University.
 
