@@ -7,7 +7,7 @@ My research revolves around design, impact and education around AI. I am particu
 You can reach me at andrea dot aler at umu dot se . You can find me in room D418, 4th floor of MIT-huset in Umeå University.
 
 ## Current Events and Calls
-* [First AEQUITAS Workshop on Fairness and Bias in AI | co-located with ECAI 2023](https://aequitas-aod.github.io/aequitas-ecai23.github.io/). Paper submission deadline: June 18th, 2023.
+* [First AEQUITAS Workshop on Fairness and Bias in AI (co-located with ECAI 2023)](https://aequitas-aod.github.io/aequitas-ecai23.github.io/). Paper submission deadline: June 18th, 2023.
 
 * [Topical collection at Ethics and Information Technology: The Culture of Trustworthy AI. Public debate, Education and Practical Learning](https://link.springer.com/collections/bheicacbbd).  Deadline extended to June 2023.
 
